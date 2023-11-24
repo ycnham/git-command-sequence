@@ -1,2 +1,2 @@
 # git-command-sequence
-# This is fifth commit
+# This is sixth commit
