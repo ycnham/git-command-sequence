@@ -1,2 +1,2 @@
 # git-command-sequence
-# This line is first commit
+# This line is third commit
